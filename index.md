@@ -44,7 +44,8 @@ I am a 3rd-year Diploma student in Information Studies. I volunteer with SORY Af
 - [Expledia Flight Booking (Not yet Finished Though)](https://github.com/ChrispineOjow/ExpediaFlightBooking)
 - [COVID-19 Metadata Analysis Dashboard](https://github.com/ChrispineOjow/Frameworks_Assignment)
 
-
+## Contact Info
+- email: ``Wameyochrispine@gmail.com``
 
 
 
