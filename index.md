@@ -5,4 +5,20 @@
 layout: single
 author_profile: true
 ---
+
 # Curriculum Vitae - Chrispine Ojow
+---
+
+## 🎓Education 
+---
+
+
+## 📜Certifications
+---
+
+---
+
+## 👩‍🏫Academic Experience
+---
+
+
