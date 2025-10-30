@@ -13,10 +13,18 @@ I am a 3rd-year Diploma student in Information Studies. I volunteer with SORY Af
 
 ## 🎓 Education
 - Diploma in Information Studies — 3rd year (current)
+- MERN Stack Web Development — PLP (In Progress)
+- Ethical Hacking Certification — Cyber Shujaa (In Progress)
 
 ## 📜 Certifications
 - AI Essentials — ALX
 - CIPIT Data Protection — Strathmore University
+
+## 🔬 Lab Challenges & Security Experience
+- OSINT Investigation Techniques
+- DDoS Attack Analysis & Prevention
+- Network Security Fundamentals
+- Basic Penetration Testing
 
 ## 🤝 Volunteering
 - Volunteer, SORY Africa — community outreach, digital literacy, program support
@@ -25,8 +33,11 @@ I am a 3rd-year Diploma student in Information Studies. I volunteer with SORY Af
 - Basic: HTML, CSS, Git, JavaScript, Java
 - Familiar: Python, AI fundamentals, data protection concepts
 - Tools: VS Code, GitHub
-- Frameworks: Tailwind 
+- Frameworks: Tailwind, Express.js
 - Library: React
+- Database: MongoDB
+- Security Tools: Basic OSINT tools, Network Analysis
+- Development Stack: MERN (MongoDB, Express.js, React, Node.js)
 
 ## Projects
 - [A basic Java Calculator](https://github.com/ChrispineOjow/AreaCalculator)
