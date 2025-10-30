@@ -8,19 +8,33 @@ author_profile: true
 
 # Curriculum Vitae
 
+## Summary
+I am a 3rd-year Diploma student in Information Studies. I volunteer with SORY Africa and focus on practical applications of AI, data protection, and information management.
 
-## 🎓Education 
----
- - _Diploma in Information Technology_  , The Techinical Univresity of Kenya.
+## 🎓 Education
+- Diploma in Information Studies — 3rd year (current)
+
+## 📜 Certifications
+- AI Essentials — ALX
+- CIPIT Data Protection — Strathmore University
+
+## 🤝 Volunteering
+- Volunteer, SORY Africa — community outreach, digital literacy, program support
+
+## 🛠 Skills
+- Basic: HTML, CSS, Git, JavaScript, Java
+- Familiar: Python, AI fundamentals, data protection concepts
+- Tools: VS Code, GitHub
+- Frameworks: Tailwind 
+- Library: React
 
 
-## 📜Certifications
----
-- AI essentials
-- CIPIT Data Protection
+
+## 📫 Contact
+- Email: Wameyochrispine@example.com  
+- GitHub: github.com/ChrispineOjow 
+
 ---
 
-## 👩‍🏫Academic Experience
----
 
 
