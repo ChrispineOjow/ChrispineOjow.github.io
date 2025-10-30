@@ -28,13 +28,12 @@ I am a 3rd-year Diploma student in Information Studies. I volunteer with SORY Af
 - Frameworks: Tailwind 
 - Library: React
 
+## Projects
+- [A basic Java Calculator](https://github.com/ChrispineOjow/AreaCalculator)
+- [Expledia Flight Booking (Not yet Finished Though)](https://github.com/ChrispineOjow/ExpediaFlightBooking)
+- [COVID-19 Metadata Analysis Dashboard](https://github.com/ChrispineOjow/Frameworks_Assignment)
 
 
-## 📫 Contact
-- Email: Wameyochrispine@example.com  
-- GitHub: github.com/ChrispineOjow 
-
----
 
 
 
