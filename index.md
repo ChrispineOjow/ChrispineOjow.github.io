@@ -11,11 +11,13 @@ author_profile: true
 
 ## 🎓Education 
 ---
+ - _Diploma in Information Technology_  , The Techinical Univresity of Kenya.
 
 
 ## 📜Certifications
 ---
-
+- AI essentials
+- CIPIT Data Protection
 ---
 
 ## 👩‍🏫Academic Experience
