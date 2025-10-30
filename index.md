@@ -6,9 +6,6 @@ layout: single
 author_profile: true
 ---
 
-# Curriculum Vitae
-
-
 ## 🎓Education 
 ---
 
