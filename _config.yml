@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am an Aspiring Software Developer Currently at the Technical University of Kenya pursuing a course in Diploma in Information Technology"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/ChrispineLameck"
