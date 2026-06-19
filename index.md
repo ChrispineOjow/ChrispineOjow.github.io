@@ -9,16 +9,18 @@ author_profile: true
 
 
 ## Summary
-I am a 3rd-year Diploma student in Information Studies. I volunteer with SORY Africa and focus on practical applications of AI, data protection, and information management.
+I am a 3rd-year Diploma student currently pursuing Information Technology . I volunteer with SORY Africa and focus on practical applications of AI, data protection, and information management.
 
 ## 🎓 Education
 - Diploma in Information Studies — 3rd year (current)
-- MERN Stack Web Development — PLP (In Progress)
-- Ethical Hacking Certification — Cyber Shujaa (In Progress)
+- MERN Stack Web Development — PLP 
+- Ethical Hacking Certification — Cyber Shujaa
+- Full Stack Software Engineering (Django) - Emobilis Kenya
 
 ## 📜 Certifications
 - AI Essentials — ALX
 - CIPIT Data Protection — Strathmore University
+- Full Stack Software Engineering - PLP Africa
 
 ## 🔬 Lab Challenges & Security Experience
 - OSINT Investigation Techniques
@@ -30,14 +32,15 @@ I am a 3rd-year Diploma student in Information Studies. I volunteer with SORY Af
 - Volunteer, SORY Africa — community outreach, digital literacy, program support
 
 ## 🛠 Skills
-- Basic: HTML, CSS, Git, JavaScript, Java
+- Basic: HTML, CSS, Git, JavaScript, Java, TypeScript, Python
 - Familiar: Python, AI fundamentals, data protection concepts
-- Tools: VS Code, GitHub
-- Frameworks: Tailwind, Express.js
+- Tools: VS Code, GitHub, mvn(Maven)
+- Frameworks: Tailwind, Express.js, Django
+- Runtime Environmnet: Nodejs
 - Library: React
-- Database: MongoDB
-- Security Tools: Basic OSINT tools, Network Analysis
-- Development Stack: MERN (MongoDB, Express.js, React, Node.js)
+- Database: MongoDB, Oracle, PostgreSQL
+- Security & Concepts: Basic OSINT tools, Network Analysis
+- Development Stack: MERN (MongoDB, Express.js, React, Node.js), 
 
 ## Projects
 - [A basic Java Calculator](https://github.com/ChrispineOjow/AreaCalculator)
