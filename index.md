@@ -35,7 +35,7 @@ I am a 3rd-year Diploma student currently pursuing Information Technology . I vo
 - Familiar: Python, AI fundamentals, data protection concepts
 - Tools: VS Code, GitHub, mvn(Maven)
 - Frameworks: Tailwind, Express.js, Django
-- Runtime Environmnet: Nodejs
+- Runtime Environment: Nodejs
 - Library: React
 - Database: MongoDB, Oracle, PostgreSQL
 - Security & Concepts: Basic OSINT tools, Network Analysis
