@@ -8,7 +8,6 @@ author_profile: true
 
 
 
-## Summary
 I am a 3rd-year Diploma student currently pursuing Information Technology . I volunteer with SORY Africa and focus on practical applications of AI, data protection, and information management.
 
 ## 🎓 Education
