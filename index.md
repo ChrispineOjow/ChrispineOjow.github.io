@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-# Curriculum Vitae
+
 
 ## Summary
 I am a 3rd-year Diploma student in Information Studies. I volunteer with SORY Africa and focus on practical applications of AI, data protection, and information management.
